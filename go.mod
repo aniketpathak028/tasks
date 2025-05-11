@@ -1,4 +1,4 @@
-module github.com/aniketpathak028/cli-todo
+module github.com/aniketpathak028/tasks
 
 go 1.24.2
 
