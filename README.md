@@ -1,4 +1,4 @@
-# Todo App
+# Tasks
 
 A simple CLI application for managing tasks in the terminal.
 
